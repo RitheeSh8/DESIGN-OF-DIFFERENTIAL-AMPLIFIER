@@ -39,12 +39,20 @@ Differential amplifier
 7. Plot the graph of the input wave versus output wave for any one practical case. 
 
 ## MODEL GRAPH: 
+
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/f8d817d8-aa4b-4308-8a1f-822567db04b3" />
 
 ## TABULATION:
 
+![WhatsApp Image 2025-10-29 at 10 59 45_b975c221](https://github.com/user-attachments/assets/2ed9922c-da43-470a-a6f8-7a76392339e0)
+
+## CALCULATION:
+
+![IMG-20251029-WA0032 1](https://github.com/user-attachments/assets/1729687e-65a2-4036-8ea5-d35d8e022d3f)
 
 ## GRAPH:
 
+![IMG-20251029-WA0031 1](https://github.com/user-attachments/assets/0a90876f-b5ec-441a-b729-7343f499f8c9)
 
 ## RESULT:                   
+Thus differential Amplifier is designed and their performance was successfully tested using op-amp IC741
